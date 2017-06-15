@@ -7,3 +7,5 @@ Algorithm:
     This is temporary value of second greatest.
   3. In the second for loop, set second greatest value.
   4. Compare and return.
+
+Disclaimer: This is a University Question. The question, explicitly, states not to use additional methods and additional array. We are asked to do it by using simplest possible tools.
